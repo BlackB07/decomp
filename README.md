@@ -1,4 +1,4 @@
-# encrypt_decrypt🔥😱🖕
+# encrypt_decrypt🔥
 
 pkg update
 
@@ -12,7 +12,7 @@ pip2 install mechanize
 
 pip2 install requests
 
-git clone https://github.com/Hamii-king-06/encrypt_decrypt.git
+git clone https://github.com/BlackB07/decomp
 
 cd encrypt_decrypt
 
