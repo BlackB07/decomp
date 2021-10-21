@@ -14,7 +14,7 @@ pip2 install requests
 
 git clone https://github.com/BlackB07/decomp
 
-cd encrypt_decrypt
+cd decomp
 
 python2 encrypt_decrypt.py
 
